@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-label="CG Subtitle Style banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d2333"/>
+      <stop offset="0.55" stop-color="#121624"/>
+      <stop offset="1" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe9ad"/>
+      <stop offset="1" stop-color="#f0b34e"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#f0b34e" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#f0b34e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- 背景 -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <circle cx="600" cy="160" r="430" fill="url(#glow)"/>
+
+  <!-- 字幕面板图形:半透明圆角底 + 细边框 -->
+  <rect x="90" y="112" width="400" height="96" rx="18"
+        fill="rgba(0,0,0,0.55)" stroke="#4a4a58" stroke-width="3"/>
+
+  <!-- 说话人行(短白条)+ 描边堆叠幽灵 -->
+  <rect x="123" y="136" width="120" height="16" rx="8" fill="#ffffff" opacity="0.14"/>
+  <rect x="127" y="136" width="120" height="16" rx="8" fill="#eef1f6" stroke="#000" stroke-width="5"/>
+
+  <!-- 金色分隔线 -->
+  <line x1="176" y1="162" x2="220" y2="162" stroke="url(#gold)" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- 内容行(长金条)+ 描边堆叠幽灵 -->
+  <rect x="120" y="172" width="200" height="20" rx="10" fill="url(#gold)" opacity="0.14"/>
+  <rect x="126" y="172" width="200" height="20" rx="10" fill="url(#gold)" stroke="#000" stroke-width="5"/>
+
+  <!-- 金色竖分隔线 -->
+  <line x1="548" y1="96" x2="548" y2="224" stroke="url(#gold)" stroke-width="2" opacity="0.5"/>
+
+  <!-- 品牌文字 -->
+  <text x="592" y="175" font-family="Georgia,'Times New Roman',serif" font-size="56" font-weight="700"
+        fill="#ffffff" stroke="#000" stroke-width="6" paint-order="stroke">CG Subtitle Style</text>
+</svg>

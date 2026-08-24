@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="CG Subtitle Style">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d2333"/>
+      <stop offset="1" stop-color="#0a0d14"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe9ad"/>
+      <stop offset="1" stop-color="#f0b34e"/>
+    </linearGradient>
+  </defs>
+
+  <!-- 背景圆角方块 -->
+  <rect width="256" height="256" rx="52" fill="url(#bg)"/>
+
+  <!-- 字幕背景面板(background + border) -->
+  <rect x="30" y="88" width="196" height="80" rx="14"
+        fill="rgba(0,0,0,0.55)" stroke="#4a4a58" stroke-width="2"/>
+
+  <!-- 说话人行(短白条)+ 描边层堆叠幽灵 -->
+  <rect x="87" y="110" width="82" height="12" rx="6"
+        fill="#ffffff" opacity="0.14"/>
+  <rect x="90" y="110" width="82" height="12" rx="6"
+        fill="#eef1f6" stroke="#000" stroke-width="4"/>
+
+  <!-- 金色分隔线 -->
+  <line x1="110" y1="132" x2="146" y2="132" stroke="url(#gold)" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- 内容行(长金条)+ 描边层堆叠幽灵 -->
+  <rect x="67" y="142" width="122" height="16" rx="8"
+        fill="url(#gold)" opacity="0.14"/>
+  <rect x="70" y="142" width="122" height="16" rx="8"
+        fill="url(#gold)" stroke="#000" stroke-width="4"/>
+</svg>

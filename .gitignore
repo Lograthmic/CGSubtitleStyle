@@ -1,0 +1,19 @@
+# Release archives
+*.zip
+*.rar
+*.7z
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# CurseForge / Wago packaging output
+*.release
+.pkgmeta.yaml.tmp

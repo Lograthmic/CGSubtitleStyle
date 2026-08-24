@@ -1,0 +1,25 @@
+## Interface: 120001
+## Title: CG Subtitle Style
+## Notes: Custom cinematic subtitle styling: speaker and content lines separated, themes import/export
+## Category: User Interface
+## Title-zhCN: CG 字幕样式
+## Notes-zhCN: 自定义原生过场字幕样式:说话人与内容分离,主题可导入导出
+## Category-zhCN: 用户界面
+## Title-zhTW: CG 字幕樣式
+## Notes-zhTW: 自訂原生過場字幕樣式:說話人與內容分離,主題可匯入匯出
+## Category-zhTW: 使用者介面
+## Author: Lograthmic
+## Version: @project-version@
+## SavedVariables: CGSubtitleStyleDB
+## LoadSavedVariablesFirst: 1
+## X-Curse-Project-ID: 1666199
+
+Localization/zhCN.lua
+Localization/zhTW.lua
+Localization/enUS.lua
+Locale.lua
+Media.lua
+Serializer.lua
+Themes.lua
+Core.lua
+Options.lua
