@@ -2,7 +2,7 @@
 
 [![CurseForge](https://img.shields.io/badge/CurseForge-black?logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/cg-subtitle-style) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Lograthmic/CGSubtitleStyle)
 
-English | [中文](docs/README.zhCN.md) | [繁體中文](docs/README.zhTW.md)
+English | [简体中文](docs/README.zhCN.md) | [繁體中文](docs/README.zhTW.md)
 
 ---
 
