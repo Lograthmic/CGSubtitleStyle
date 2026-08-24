@@ -1,7 +1,7 @@
 local addonName, addon = ...
 addon.Locales = addon.Locales or {}
 addon.Locales.zhCN = {
-    ADDON_NAME = "CG Subtitle Style",
+    ADDON_NAME = "CG 字幕样式",
     SECTION_THEME = "主题",
     SECTION_GLOBAL = "综合",
     SECTION_SPEAKER = "说话人",
