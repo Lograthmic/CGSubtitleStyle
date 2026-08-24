@@ -13,6 +13,7 @@
 ## SavedVariables: CGSubtitleStyleDB
 ## LoadSavedVariablesFirst: 1
 ## X-Curse-Project-ID: 1666199
+## IconTexture: Interface\AddOns\CGSubtitleStyle\icon
 
 Localization/zhCN.lua
 Localization/zhTW.lua
