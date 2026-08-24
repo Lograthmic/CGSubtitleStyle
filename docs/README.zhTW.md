@@ -1,8 +1,23 @@
-# CG 字幕樣式 (CG Subtitle Style)
+<div align="center">
 
-[![CurseForge](https://img.shields.io/badge/CurseForge-black?logo=curseforge&logoColor=white)](https://www.curseforge.com/wow/addons/cg-subtitle-style) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Lograthmic/CGSubtitleStyle)
+![](assets/banner.png)
+
+</div>
+
+<div align="center">
 
 [English](../README.md) | [简体中文](README.zhCN.md) | 繁體中文
+
+</div>
+
+<div align="center">
+
+[![GitHub Stars](https://img.shields.io/github/stars/Lograthmic/CGSubtitleStyle?logo=github&style=flat-square)](https://github.com/Lograthmic/CGSubtitleStyle)
+[![GitHub License](https://img.shields.io/github/license/Lograthmic/CGSubtitleStyle?logo=github&style=flat-square)](https://github.com/Lograthmic/CGSubtitleStyle/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/Lograthmic/CGSubtitleStyle?logo=github&style=flat-square)](https://github.com/Lograthmic/CGSubtitleStyle/commits/main)
+[![CurseForge Version](https://img.shields.io/curseforge/v/1666199?logo=curseforge&style=flat-square)](https://www.curseforge.com/wow/addons/cg-subtitle-style)
+
+</div>
 
 ---
 
