@@ -88,7 +88,7 @@ someone else's theme directly.
 
 ## Compatibility
 
-- **Retail** v12.0.1 — `## Interface: 120001`.
+- **Retail** v12.1.0 — `## Interface: 120100`.
 
 ## Disclaimer
 
