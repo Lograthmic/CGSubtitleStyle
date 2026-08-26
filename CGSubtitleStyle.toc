@@ -15,10 +15,8 @@
 ## X-Curse-Project-ID: 1666199
 ## IconTexture: Interface\AddOns\CGSubtitleStyle\icon
 
-Localization/zhCN.lua
-Localization/zhTW.lua
-Localization/enUS.lua
-Locale.lua
+Localization\Localization.xml
+
 Media.lua
 Serializer.lua
 Themes.lua
